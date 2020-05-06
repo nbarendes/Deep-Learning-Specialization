@@ -18,7 +18,7 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
          - Setting up your Machine Learning Application
          - Regularizing your neural network
          - Setting up your optimization problem
-2. Week2 - [Optimization algorithms](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
+2. Week2 - [Optimization algorithms](https://github.com/nbarendes/deep-learning/tree/master/Improving%20Deep%20Neural%20Network/Week_2)
 3. Week3 - [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
 
 ## Course 3. [Structuring Machine Learning Projects]()
