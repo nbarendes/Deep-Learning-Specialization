@@ -1,14 +1,14 @@
 # Deep Learning Specialization 
 
 
- ## Course 1. Neural Networks and Deep Learning
+ ## Course 1. Neural Networks and Deep Learning - [Certification](https://github.com/nbarendes/deep-learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Certificate.pdf)
  
 1. Week1 - [Introduction to deep learning](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_1)
 2. Week2 - [Neural Networks Basics](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_2)
 3. Week3 - [Shallow neural networks](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_3)
 4. Week4 - [Deep Neural Networks](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_4)
 
-- [Certification](https://github.com/nbarendes/deep-learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Certificate.pdf)
+
 
 ## Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 
