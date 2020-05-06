@@ -5,7 +5,7 @@ This is my personal projects for the course. The course covers deep learning fro
 
 Instructor: [Andrew Ng, DeepLearning.ai]()
 
- ## Course 1. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+ ## Course 1. [Neural Networks and Deep Learning]()
  
 1. Week1 - [Introduction to deep learning](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_1)
 2. Week2 - [Neural Networks Basics](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_2)
