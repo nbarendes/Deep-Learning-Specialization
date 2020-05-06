@@ -14,7 +14,7 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization]()
 
-1. Week1 - [Practical aspects of Deep Learning](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
+1. Week1 - [Practical aspects of Deep Learning](https://github.com/nbarendes/deep-learning/tree/master/Improving%20Deep%20Neural%20Network/Week_1)
          - Setting up your Machine Learning Application
          - Regularizing your neural network
          - Setting up your optimization problem
