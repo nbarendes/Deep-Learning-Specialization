@@ -41,7 +41,7 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
  
  ## Course 5. [Sequence Models]()
  1. Week1 - [Recurrent Neural Networks](https://github.com/nbarendes/deep-learning/tree/master/Sequence%20Models/Week_1)
- 2. Week2 - [Natural Language Processing & Word Embeddings](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week2)
+ 2. Week2 - [Natural Language Processing & Word Embeddings](https://github.com/nbarendes/deep-learning/tree/master/Sequence%20Models/Week_2)
  3. Week3 - [Sequence models & Attention mechanism](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week3)
  
 <p align="center"> *************************************************************************************************************************************</p>
