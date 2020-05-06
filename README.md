@@ -2,10 +2,8 @@
 
 
 <div align="center">
-    <img src="![image](https://user-images.githubusercontent.com/34095574/81221837-a6fa6f80-8fe3-11ea-8cf3-86a42367c9d8.png)">
+    ![image](https://user-images.githubusercontent.com/34095574/81221837-a6fa6f80-8fe3-11ea-8cf3-86a42367c9d8.png)
     <h1>Deep Learning</h1>
-    <h2>deeplearning.ai</h2>
-    <p>N.B.: Please don't use the assignment and quiz solution at first time, only use when you get stuck really bad situation. Try to solve the problem by yourself.</p>
 </div>
 
 
