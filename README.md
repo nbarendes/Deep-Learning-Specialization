@@ -37,7 +37,7 @@
  3. Week3 - [Object detection](https://github.com/nbarendes/deep-learning/tree/master/Convolutional%20Neural%20Networks/Week_3) 
  4. Week4 - [Special applications: Face recognition & Neural style transfer](https://github.com/nbarendes/deep-learning/tree/master/Convolutional%20Neural%20Networks/Week_4) 
  
- ### Course 5. Sequence Models
+ ### Course 5. Sequence Models - [Certification](https://github.com/nbarendes/deep-learning/blob/master/Sequence%20Models/Certificate.pdf)
  1. Week1 - [Recurrent Neural Networks](https://github.com/nbarendes/deep-learning/tree/master/Sequence%20Models/Week_1)
  2. Week2 - [Natural Language Processing & Word Embeddings](https://github.com/nbarendes/deep-learning/tree/master/Sequence%20Models/Week_2)
  3. Week3 - [Sequence models & Attention mechanism](https://github.com/nbarendes/deep-learning/tree/master/Sequence%20Models/Week_3)
