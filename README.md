@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/34095574/81221837-a6fa6f80-8fe3-11ea-8cf3-86a42367c9d8.png)
 # Deep Learning Specialization 
 
 
