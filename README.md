@@ -30,7 +30,7 @@
          - Learning from multiple tasks
          - End-to-end deep learning
          
- ### Course 4. Convolutional Neural Networks
+ ### Course 4. Convolutional Neural Networks - [Certification](https://github.com/nbarendes/deep-learning/blob/master/Convolutional%20Neural%20Networks/Certificate.pdf)
  
  1. Week1 - [Foundations of Convolutional Neural Networks](https://github.com/nbarendes/deep-learning/tree/master/Convolutional%20Neural%20Networks/Week_1)
  2. Week2 - [Deep convolutional models: case studies](https://github.com/nbarendes/deep-learning/tree/master/Convolutional%20Neural%20Networks/Week_2) 
