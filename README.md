@@ -10,7 +10,7 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
 1. Week1 - [Introduction to deep learning](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_1)
 2. Week2 - [Neural Networks Basics](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_2)
 3. Week3 - [Shallow neural networks](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_3)
-4. Week4 - [Deep Neural Networks](https://github.com/enggen/Deep-Learning-deeplearning.ai/tree/master/Neural%20Networks%20and%20Deep%20Learning)
+4. Week4 - [Deep Neural Networks](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_4)
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
