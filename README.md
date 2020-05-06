@@ -36,7 +36,7 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
  
  1. Week1 - [Foundations of Convolutional Neural Networks](https://github.com/nbarendes/deep-learning/tree/master/Convolutional%20Neural%20Networks/Week_1)
  2. Week2 - [Deep convolutional models: case studies](https://github.com/nbarendes/deep-learning/tree/master/Convolutional%20Neural%20Networks/Week_2) 
- 3. Week3 - [Object detection]https://github.com/nbarendes/deep-learning/tree/master/Convolutional%20Neural%20Networks/Week_3) 
+ 3. Week3 - [Object detection](https://github.com/nbarendes/deep-learning/tree/master/Convolutional%20Neural%20Networks/Week_3) 
  4. Week4 - [Special applications: Face recognition & Neural style transfer](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week4) 
  
  ## Course 5. [Sequence Models]()
