@@ -34,7 +34,7 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
          
  ## Course 4. [Convolutional Neural Networks]()
  
- 1. Week1 - [Foundations of Convolutional Neural Networks](https://github.com/nbarendes/deep-learning/blob/master/Convolutional%20Neural%20Networks/Week_1/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
+ 1. Week1 - [Foundations of Convolutional Neural Networks](https://github.com/nbarendes/deep-learning/tree/master/Convolutional%20Neural%20Networks/Week_1)
  2. Week2 - [Deep convolutional models: case studies](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week2/ResNets) - Papers for read:  [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
  3. [Week3 - Object detection](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week3/Car%20detection%20for%20Autonomous%20Driving) - Papers for read: [You Only Look Once:
