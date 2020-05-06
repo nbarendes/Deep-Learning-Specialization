@@ -40,5 +40,5 @@
  2. Week2 - [Natural Language Processing & Word Embeddings](https://github.com/nbarendes/deep-learning/tree/master/Sequence%20Models/Week_2)
  3. Week3 - [Sequence models & Attention mechanism](https://github.com/nbarendes/deep-learning/tree/master/Sequence%20Models/Week_3)
  
-<p align="center"> *************************************************************************************************************************************</p>
+<p align="center"> </p>
 
