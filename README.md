@@ -1,15 +1,7 @@
-
-
-
 <div align="center">
-    ![image](https://user-images.githubusercontent.com/34095574/81221837-a6fa6f80-8fe3-11ea-8cf3-86a42367c9d8.png)
-    <h1>Deep Learning</h1>
+    <h1>Deep Learning Specialization </h1>
 </div>
 
-
-
-
-# Deep Learning Specialization 
 
 
  ### Course 1. Neural Networks and Deep Learning - [Certification](https://github.com/nbarendes/deep-learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Certificate.pdf)
