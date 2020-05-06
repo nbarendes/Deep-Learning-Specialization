@@ -10,7 +10,7 @@
 
 
 
-### Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+### Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization - [Certification](https://github.com/nbarendes/deep-learning/blob/master/Improving%20Deep%20Neural%20Network/Certificate.pdf)
 
 1. Week1 - [Practical aspects of Deep Learning](https://github.com/nbarendes/deep-learning/tree/master/Improving%20Deep%20Neural%20Network/Week_1)
          - Setting up your Machine Learning Application
