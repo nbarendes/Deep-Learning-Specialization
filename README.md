@@ -1,7 +1,7 @@
 # Deep Learning Specialization 
 
 
- ## Course 1. [Neural Networks and Deep Learning]()
+ ## Course 1. Neural Networks and Deep Learning
  
 1. Week1 - [Introduction to deep learning](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_1)
 2. Week2 - [Neural Networks Basics](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_2)
