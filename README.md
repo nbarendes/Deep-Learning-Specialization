@@ -8,7 +8,7 @@
 3. Week3 - [Shallow neural networks](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_3)
 4. Week4 - [Deep Neural Networks](https://github.com/nbarendes/deep-learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week_4)
 
-[Certification](https://github.com/nbarendes/deep-learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Certificate.pdf)
+- [Certification](https://github.com/nbarendes/deep-learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Certificate.pdf)
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization]()
 
